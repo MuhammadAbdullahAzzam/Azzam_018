@@ -1,0 +1,22 @@
+.text3{
+    font-size: 300px;
+    color: black;
+}
+
+.kotak{
+    background-color: black;
+    color: rgb(0, 0, 0);
+}
+
+.produk{
+    border: 5px solid rgb(184, 2, 2);
+    padding: 40px;
+    margin: 150px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: 300px;
+    margin-right: 150px }
